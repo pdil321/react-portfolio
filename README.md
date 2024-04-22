@@ -1,4 +1,4 @@
-YouTube Tutorial on how I built this portfolio => https://youtu.be/ESHaail1eGc
+YouTube Tutorial on from the original developer => https://youtu.be/ESHaail1eGc
 
 # Getting Started with Create React App
 
